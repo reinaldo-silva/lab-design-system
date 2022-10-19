@@ -28,7 +28,7 @@ const SignIn: React.FC = () => {
         <Logo />
 
         <Heading size="lg" className="mt-4">
-          Ignite Lab
+          Ignite Lab - Design System
         </Heading>
         <Text size="lg" className="text-gray-400 mt-1">
           Faça login e comece a usar!
